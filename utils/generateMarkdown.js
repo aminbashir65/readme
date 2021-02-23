@@ -39,7 +39,7 @@ function generateMarkdown(data) {
   ${data.license}
 
   ## Contact
-  For further contact information, contact here:
+  For further contact information, contact me here:
   * Email Address: ${data.email}
   * GitHub: [${data.github}](https://github.com/${data.github})
 
