@@ -32,4 +32,3 @@
   * Email Address: aminbashir65@gmail.com
   * GitHub: [aminbashir65](https://github.com/aminbashir65)
 
-[link to video demo](https://drive.google.com/file/d/1eY1-C9djT90_rndYTIH8g4gGfZlxDcDK/view?usp=sharing)
